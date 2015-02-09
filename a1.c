@@ -8,4 +8,5 @@ int fact()
 {
 return 1;
 //commenting to check git push :)
+//commenting to verify git merge ;)
 }
